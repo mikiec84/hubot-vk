@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.1.1",
+    "eslint": "^7.4.0",
     "eslint-config-volebo": "^2.1.2",
     "gulp": "^3.9.1",
     "gulp-size": "^2.1.0",
